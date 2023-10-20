@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "485372011334",
+    "firebase_url": "https://seglab5-3f4f0-default-rtdb.firebaseio.com",
+    "project_id": "seglab5-3f4f0",
+    "storage_bucket": "seglab5-3f4f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485372011334:android:4fe835e0b187f57150bb47",
+        "android_client_info": {
+          "package_name": "com.example.seglab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNIhl3fkTWFf7mBPRbaCSfeypmzDdZuQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
